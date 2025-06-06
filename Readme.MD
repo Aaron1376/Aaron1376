@@ -1,21 +1,21 @@
-<h1 align="center">Hey there! 👋 I'm Aaron Sam</h1>
+<h1 align="center">Hey there! I'm Aaron Sam</h1>
 
-# 🧠 About Me:
+# About Me:
 I'm currently pursuing a B.S. in Data Science at San José State University, with expected graduation in December 2025. My interests lie in the intersection of data science, machine learning, and software engineering. I’m passionate about turning real-world data into impactful insights and building intuitive tools that make data more accessible and actionable.
 
-## 🎯 What I'm Up To
+##  What I'm Up To
 
-- 🌍 Creating a forecasting dashboard for PM2.5 air pollution, utilizing meteorological and wildfire data, and deploying it on Google Cloud  
+-  Creating a forecasting dashboard for PM2.5 air pollution, utilizing meteorological and wildfire data, and deploying it on Google Cloud  
 
-- 🛠 Developing a university club management platform with HTML, CSS, MySQL, JavaScript, and NodeJS, focusing on enhancing UI/UX design  
+-  Developing a university club management platform with HTML, CSS, MySQL, JavaScript, and NodeJS, focusing on enhancing UI/UX design  
 
-- 📊 Conducting data analysis on the real-world datasets such as uncovering racial and demographic disparities in police killings, while building predictive models to assess influencing factors  
-- 🤖 Applying machine learning techniques, such as Graph Neural Networks (GNN), to predict PM2.5 concentrations and improve the accuracy of air pollution forecasting models  
+- Conducting data analysis on the real-world datasets such as uncovering racial and demographic disparities in police killings, while building predictive models to assess influencing factors  
+-  Applying machine learning techniques, such as Graph Neural Networks (GNN), to predict PM2.5 concentrations and improve the accuracy of air pollution forecasting models  
 
-## 🌐 Connect with me:
+##  Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-sam-75330726a/)
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ### **Languages:**
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
