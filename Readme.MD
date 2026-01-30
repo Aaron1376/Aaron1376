@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Aaron Sam</h1>
 
 # About Me:
-I'm currently pursuing a B.S. in Data Science at San José State University, with expected graduation in December 2025. My interests lie in the intersection of data science, machine learning, and software engineering. I’m passionate about turning real-world data into impactful insights and building intuitive tools that make data more accessible and actionable.
+I'm currently pursuing a M.S. in Artificial Intelligence at San José State University, with expected graduation in May 2028. My interests lie in the intersection of data science, machine learning, and software engineering. I’m passionate about turning real-world data into impactful insights and building intuitive tools that make data more accessible and actionable.
 
 ##  What I'm Up To
 
